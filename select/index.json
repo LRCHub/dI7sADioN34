@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "FRIEND II",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2025-12-01T13:17:59.691351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FRIEND II",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/01_FRIEND_II_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FRIEND II ''MAKE MY MAD MIX''",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/02_FRIEND_II_''MAKE_MY_MAD_MIX''_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FRIEND II",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/03_FRIEND_II_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FRIEND II",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/04_FRIEND_II_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Friend II \"Make My Mad Mix\" from Ayu-mi-x",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/05_Friend_II__Make_My_Mad_Mix__from_Ayu-mi-x_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FRIEND II (MAKE MY MAD MIX)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/06_FRIEND_II_(MAKE_MY_MAD_MIX)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Friend Ii",
+      "artist": "Hamasaki, Ayumi",
+      "has_synced": true,
+      "path": "select/07_Friend_Ii_Hamasaki,_Ayumi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FRIEND II [Make My Mad Mix]",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/08_FRIEND_II_[Make_My_Mad_Mix]_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friend II",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Friend_II_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Friend II",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_02_Friend_II_浜崎_あゆみ.txt"
+    }
+  ]
+}
